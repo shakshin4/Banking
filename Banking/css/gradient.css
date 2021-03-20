@@ -1,0 +1,9 @@
+.gradient{
+	text-align:center;
+	font-size:120px;
+background:
+linear-gradient(120deg,green,yellow,blue,orange);
+-webkit-text-fill-color:transparent;
+-webkit-background-clip:text;
+
+}
